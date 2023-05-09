@@ -1,0 +1,27 @@
+.outgoing {
+    display: flex;
+    color: var(--text-color);   
+}
+.outgoing .details {
+    margin-left: auto;
+    max-width: calc(100% - 150px);
+}
+.outgoing .details p {
+    margin: 10px;
+    padding: 10px;
+    background: var(--main-color);
+    border-radius: 15px 15px 0 15px;
+}
+.incoming {
+    display: flex;
+    color: var(--text-color);   
+}
+.incoming .details {
+    max-width: calc(100% - 150px);
+}
+.incoming .details p {
+    margin: 10px;
+    padding: 10px;
+    background: var(--main-color);
+    border-radius: 15px 15px 15px 0;
+}

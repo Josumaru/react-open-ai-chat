@@ -1,0 +1,10 @@
+:root{
+  --background-color: #191e2e;
+  --second-backgorund-color: #1f2633;
+  --third-backgorund-color: #0f141e;
+  --main-color: #267ee5;
+  --text-color: #FFFFFF;
+}
+::-webkit-scrollbar{
+  display: none;
+}
