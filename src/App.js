@@ -1,5 +1,4 @@
 import './App.css';
-import Assistant from './components/Assistant/Assistant';
 import Chat from './components/Chat/Chat';
 function App() {
   return (

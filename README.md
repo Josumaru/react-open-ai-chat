@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Open AI Chat
+Setup your .env file with API KEY from [RAPID API](https://rapidapi.com/Glavier/api/chatgpt53) to use the chat.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
